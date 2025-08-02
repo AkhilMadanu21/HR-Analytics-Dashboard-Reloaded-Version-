@@ -1,4 +1,7 @@
 # HR-Analytics-Dashboard-Reloaded-Version-
+
+https://app.powerbi.com/groups/me/reports/4d341c0e-c19a-40fc-a061-dacc13102773/7b4ee951501d9023b045?experience=power-bi
+
 This is the **reloaded version** of my previously published HR Analytics Dashboard, enhanced with improved visuals, cleaner layout, and deeper insights using **Power BI**. The dashboard helps uncover trends in workforce attrition, compensation, performance, and more.
 
 ## 🚀 Key Highlights:
